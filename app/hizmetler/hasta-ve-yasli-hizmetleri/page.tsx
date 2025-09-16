@@ -418,11 +418,11 @@ export default function HastaYasliHizmetleriPage() {
 
                                 <div className="mt-3 flex flex-wrap gap-2">
                                     <button className="rounded-lg bg-emerald-600 px-4 py-2 text-white hover:opacity-95" type="submit">Başvuruyu Gönder</button>
-                                                                        <ExportMenu 
-                                                                                data={{ triage }}
-                                                                                filename="hasta-yasli-basvuru-taslak.json"
-                                                                                resourceId="hasta_ve_yasli_hizmetleri"
-                                                                        />
+                                    <ExportMenu
+                                        data={{ triage }}
+                                        filename="hasta-yasli-basvuru-taslak.json"
+                                        resourceId="hasta_ve_yasli_hizmetleri"
+                                    />
                                 </div>
 
                                 <Callout title="Nasıl çalışır? – Başvuru" tone="info">
@@ -496,11 +496,11 @@ export default function HastaYasliHizmetleriPage() {
                             <div className="rounded-xl border bg-white p-4">
                                 <div className="mb-2 flex items-center justify-between">
                                     <h3 className="font-semibold">Kayıtlı Hatırlatmalar</h3>
-                                    <ExportMenu 
-                    data={reminders} 
-                    filename="ilac-hatirlatmalar.json"
-                    resourceId="hasta_ve_yasli_hizmetleri"
-                  />
+                                    <ExportMenu
+                                        data={reminders}
+                                        filename="ilac-hatirlatmalar.json"
+                                        resourceId="hasta_ve_yasli_hizmetleri"
+                                    />
                                 </div>
                                 {reminders.length === 0 ? (
                                     <p className="text-sm text-gray-600">Kayıt yok.</p>
@@ -547,11 +547,11 @@ export default function HastaYasliHizmetleriPage() {
                                         <option value="Tamamlandı">Tamamlandı</option>
                                         <option value="Beklemede">Beklemede</option>
                                     </select>
-                                    <ExportMenu 
-                    data={basvurular} 
-                    filename="hasta-yasli-basvurular.json"
-                    resourceId="hasta_ve_yasli_hizmetleri"
-                  />
+                                    <ExportMenu
+                                        data={basvurular}
+                                        filename="hasta-yasli-basvurular.json"
+                                        resourceId="hasta_ve_yasli_hizmetleri"
+                                    />
                                 </div>
                             </div>
 
@@ -589,11 +589,11 @@ export default function HastaYasliHizmetleriPage() {
                                                             </a>
                                                         )}
                                                         <button className="rounded-lg bg-gray-100 px-3 py-1.5 hover:bg-gray-200" onClick={() => ilerlet(b.id)}>İlerle (demo)</button>
-                                                        <ExportMenu 
-                    data={b} 
-                    filename={`${b.basvuruNo}.json`}
-                    resourceId="hasta_ve_yasli_hizmetleri"
-                  />
+                                                        <ExportMenu
+                                                            data={b}
+                                                            filename={`${b.basvuruNo}.json`}
+                                                            resourceId="hasta_ve_yasli_hizmetleri"
+                                                        />
                                                     </td>
                                                 </tr>
                                             ))}

@@ -517,11 +517,11 @@ export default function PageImarSehircilik() {
                                     Sorgula
                                 </button>
                                 {res && (
-                                                                        <ExportMenu 
-                                                                                data={{ query: q }}
-                                                                                filename="e-imar-sonuc.json"
-                                                                                resourceId="imar_sehircilik_hizmetleri"
-                                                                        />
+                                    <ExportMenu
+                                        data={{ query: q }}
+                                        filename="e-imar-sonuc.json"
+                                        resourceId="imar_sehircilik_hizmetleri"
+                                    />
                                 )}
                             </div>
                         </form>
@@ -677,11 +677,11 @@ export default function PageImarSehircilik() {
                                                         >
                                                             İlerle (demo)
                                                         </button>
-                                                        <ExportMenu 
-                    data={c} 
-                    filename={`${c.basvuruNo}.json`}
-                    resourceId="imar_sehircilik_hizmetleri"
-                  />
+                                                        <ExportMenu
+                                                            data={c}
+                                                            filename={`${c.basvuruNo}.json`}
+                                                            resourceId="imar_sehircilik_hizmetleri"
+                                                        />
                                                     </td>
                                                 </tr>
                                             ))}
@@ -816,11 +816,11 @@ export default function PageImarSehircilik() {
                                 <button className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:opacity-95" type="submit">
                                     Talep Gönder
                                 </button>
-                                <ExportMenu 
-                    data={yolKotu} 
-                    filename="yolkotu-talepleri.json"
-                    resourceId="imar_sehircilik_hizmetleri"
-                  />
+                                <ExportMenu
+                                    data={yolKotu}
+                                    filename="yolkotu-talepleri.json"
+                                    resourceId="imar_sehircilik_hizmetleri"
+                                />
                             </div>
                         </form>
                         {yolKotu.length > 0 && (
@@ -866,11 +866,11 @@ export default function PageImarSehircilik() {
                                 <button className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:opacity-95" type="submit">
                                     Başvuru Gönder
                                 </button>
-                                <ExportMenu 
-                    data={numarataj} 
-                    filename="numarataj-basvurular.json"
-                    resourceId="imar_sehircilik_hizmetleri"
-                  />
+                                <ExportMenu
+                                    data={numarataj}
+                                    filename="numarataj-basvurular.json"
+                                    resourceId="imar_sehircilik_hizmetleri"
+                                />
                             </div>
                         </form>
                         {numarataj.length > 0 && (
@@ -919,11 +919,11 @@ export default function PageImarSehircilik() {
                                 <button className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:opacity-95" type="submit">
                                     Bildirim Gönder
                                 </button>
-                                <ExportMenu 
-                    data={hafriyat} 
-                    filename="hafriyat-bildirimleri.json"
-                    resourceId="imar_sehircilik_hizmetleri"
-                  />
+                                <ExportMenu
+                                    data={hafriyat}
+                                    filename="hafriyat-bildirimleri.json"
+                                    resourceId="imar_sehircilik_hizmetleri"
+                                />
                             </div>
                         </form>
                         <Callout title="Sistem nasıl işler? – Hafriyat" tone="info">

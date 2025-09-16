@@ -1,0 +1,125 @@
+{
+    "groups": [
+        {
+            "id": "e-odeme",
+            "title": "E-ÖDEME",
+            "icon": "CreditCard",
+            "items": [
+                {
+                    "title": "Vergi Ödeme",
+                    "href": "/ebelediye/vergi-odeme"
+                },
+                {
+                    "title": "Vergi Takvimi ve Beyanname",
+                    "href": "/ebelediye/vergi-takvimi-beyanname"
+                },
+                {
+                    "title": "Banka ve Posta Bilgileri",
+                    "href": "/ebelediye/banka-posta-bilgileri"
+                }
+            ]
+        },
+        {
+            "id": "e-sorgulama",
+            "title": "E-SORGULAMA",
+            "icon": "CircleHelp",
+            "items": [
+                {
+                    "title": "Birim Ajans Kent Rehberi",
+                    "href": "/hizmetler/kent-rehberi"
+                },
+                {
+                    "title": "İmar Sorgulama",
+                    "href": "/imar"
+                },
+                {
+                    "title": "Ruhsat Başvuru Sorgulama",
+                    "href": "/ebelediye?tab=ruhsat"
+                },
+                {
+                    "title": "Yapı Kontrol Dosya Arama",
+                    "href": "/imar?view=yapi-kontrol"
+                },
+                {
+                    "title": "İmar Dosya Arama (Ebys)",
+                    "href": "/imar?view=ebys"
+                },
+                {
+                    "title": "Vefat Edenler",
+                    "href": "/hizmetler/mezarlik-islemleri"
+                },
+                {
+                    "title": "Asansör Periyodik Muayenesi",
+                    "href": "/hizmetler/yapi-kontrol-asansor-tescil"
+                },
+                {
+                    "title": "Askıda İmar/Plan Tadilat İlanları",
+                    "href": "/imar/askida-ilanlar"
+                },
+                {
+                    "title": "Rayiç Değerler",
+                    "href": "/hizmetler/ucretler-tarifeler?view=rayic"
+                }
+            ]
+        },
+        {
+            "id": "e-basvuru",
+            "title": "E-BAŞVURU",
+            "icon": "NotebookPen",
+            "items": [
+                {
+                    "title": "Emlak Beyan Oluşturma",
+                    "href": "/ebelediye/emlak-beyan"
+                },
+                {
+                    "title": "İlan Reklam Beyan Oluşturma",
+                    "href": "/ebelediye/ilan-reklam-beyan"
+                },
+                {
+                    "title": "Köpek Eğitim Başvurusu",
+                    "href": "/hizmetler/veteriner-hizmetleri?form=kopek-egitim"
+                },
+                {
+                    "title": "Hayvanlarda İlk Yardım",
+                    "href": "/hizmetler/veteriner-hizmetleri?form=ilk-yardim"
+                },
+                {
+                    "title": "Hayvan Sahiplenme",
+                    "href": "/hizmetler/veteriner-hizmetleri?form=sahiplenme"
+                },
+                {
+                    "title": "Birim Ajans'ta Staj Bir Başka",
+                    "href": "/kariyer?program=staj"
+                },
+                {
+                    "title": "Bilgi Edinme",
+                    "href": "/ebelediye/bilgi-edinme"
+                },
+                {
+                    "title": "Çözüm Merkezi",
+                    "href": "/cozum-merkezi?view=basvuru"
+                },
+                {
+                    "title": "Çözüm Merkezi Öneri Şikayet Formu",
+                    "href": "/cozum-merkezi?view=basvuru&tip=onerisikayet"
+                },
+                {
+                    "title": "Sosyal Yardım Hizmetleri",
+                    "href": "/hizmetler/sosyal-yardim-hizmetleri"
+                },
+                {
+                    "title": "Eğitim ve Kurs Kayıtları",
+                    "href": "/hizmetler/meslek-sanat-egitimleri?form=kayit"
+                },
+                {
+                    "title": "Hoş Geldin Bebek",
+                    "href": "/hizmetler/sosyal-yardim-hizmetleri?program=hos-geldin-bebek"
+                },
+                {
+                    "title": "Engelli Hizmetleri",
+                    "href": "/hizmetler/engelli-hizmetleri"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "sikayetler": [
+        {
+            "id": 1,
+            "ticketId": "TKT-2024-001",
+            "tcNo": "12345678901",
+            "adSoyad": "Ahmet Yılmaz",
+            "telefon": "0532 123 45 67",
+            "email": "ahmet@email.com",
+            "kategori": "Çevre",
+            "altKategori": "Çöp Toplama",
+            "baslik": "Çöp toplama gecikmesi",
+            "aciklama": "Mahallemizde çöp toplama işlemi gecikmeli yapılıyor. Çöp konteynerleri taşıyor.",
+            "adres": "Merkez Mahallesi, Atatürk Caddesi No:15",
+            "tarih": "12.12.2024",
+            "durum": "İnceleniyor",
+            "sonGuncelleme": "13.12.2024",
+            "cozum": "",
+            "enlem": 39.9334,
+            "boylam": 32.8597
+        },
+        {
+            "id": 2,
+            "ticketId": "TKT-2024-002",
+            "tcNo": "98765432109",
+            "adSoyad": "Fatma Demir",
+            "telefon": "0533 987 65 43",
+            "email": "fatma@email.com",
+            "kategori": "Ulaşım",
+            "altKategori": "Yol Durumu",
+            "baslik": "Yol çukuru şikayeti",
+            "aciklama": "Ana cadde üzerinde büyük bir çukur oluşmuş. Araçlar için tehlikeli.",
+            "adres": "Güney Mahallesi, Cumhuriyet Sokak No:8",
+            "tarih": "10.12.2024",
+            "durum": "Çözüldü",
+            "sonGuncelleme": "14.12.2024",
+            "cozum": "Çukur dolduruldu ve asfalt yenilendi.",
+            "enlem": 39.9344,
+            "boylam": 32.8607
+        },
+        {
+            "id": 3,
+            "ticketId": "TKT-2024-003",
+            "tcNo": "11122233344",
+            "adSoyad": "Mehmet Kaya",
+            "telefon": "0534 555 66 77",
+            "email": "mehmet@email.com",
+            "kategori": "Park",
+            "altKategori": "Aydınlatma",
+            "baslik": "Park aydınlatması çalışmıyor",
+            "aciklama": "Mahalle parkındaki aydınlatma direkleri çalışmıyor. Gece güvenlik sorunu oluşuyor.",
+            "adres": "Doğu Mahallesi, Park Caddesi",
+            "tarih": "08.12.2024",
+            "durum": "İnceleniyor",
+            "sonGuncelleme": "09.12.2024",
+            "cozum": "",
+            "enlem": 39.9324,
+            "boylam": 32.8587
+        }
+    ]
+}

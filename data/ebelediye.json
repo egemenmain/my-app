@@ -1,0 +1,54 @@
+{
+    "borclar": [
+        {
+            "tcNo": "12345678901",
+            "ada": "123",
+            "parsel": "45",
+            "emlakVergisi": {
+                "2024": 1250.00,
+                "2023": 1200.00
+            },
+            "temizlikVergisi": {
+                "2024": 180.00
+            },
+            "toplam": 2630.00
+        },
+        {
+            "tcNo": "98765432109",
+            "ada": "456",
+            "parsel": "12",
+            "emlakVergisi": {
+                "2024": 2100.00,
+                "2023": 2000.00
+            },
+            "temizlikVergisi": {
+                "2024": 180.00
+            },
+            "toplam": 4280.00
+        }
+    ],
+    "ruhsatBasvurulari": [
+        {
+            "basvuruNo": "RBS-2024-001",
+            "tcNo": "12345678901",
+            "adSoyad": "Ahmet Yılmaz",
+            "adres": "Merkez Mahallesi, Atatürk Caddesi No:15",
+            "ada": "123",
+            "parsel": "45",
+            "basvuruTarihi": "10.12.2024",
+            "durum": "İnceleme Aşamasında",
+            "sonGuncelleme": "12.12.2024"
+        },
+        {
+            "basvuruNo": "RBS-2024-002",
+            "tcNo": "98765432109",
+            "adSoyad": "Fatma Demir",
+            "adres": "Güney Mahallesi, Cumhuriyet Sokak No:8",
+            "ada": "456",
+            "parsel": "12",
+            "basvuruTarihi": "08.12.2024",
+            "durum": "Onaylandı",
+            "sonGuncelleme": "14.12.2024"
+        }
+    ]
+}

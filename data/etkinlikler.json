@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "baslik": "Yeni Yıl Konseri",
+        "aciklama": "Yeni yıla giriş konseri - Yerel sanatçılar",
+        "tarih": "31.12.2024",
+        "saat": "20:00",
+        "yer": "Kültür Merkezi",
+        "kategori": "Konser",
+        "ucretsiz": true,
+        "kapasite": 500,
+        "kayitli": 320
+    },
+    {
+        "id": 2,
+        "baslik": "Çocuk Tiyatrosu",
+        "aciklama": "Çocuklar için özel tiyatro gösterisi",
+        "tarih": "15.12.2024",
+        "saat": "14:00",
+        "yer": "Çocuk Kütüphanesi",
+        "kategori": "Tiyatro",
+        "ucretsiz": true,
+        "kapasite": 100,
+        "kayitli": 85
+    },
+    {
+        "id": 3,
+        "baslik": "Fotoğraf Sergisi",
+        "aciklama": "Yerel fotoğrafçıların eserlerinden oluşan sergi",
+        "tarih": "20.12.2024",
+        "saat": "10:00",
+        "yer": "Sergi Salonu",
+        "kategori": "Sergi",
+        "ucretsiz": true,
+        "kapasite": 200,
+        "kayitli": 45
+    },
+    {
+        "id": 4,
+        "baslik": "Spor Turnuvası",
+        "aciklama": "Mahalleler arası futbol turnuvası",
+        "tarih": "22.12.2024",
+        "saat": "09:00",
+        "yer": "Şehir Stadyumu",
+        "kategori": "Spor",
+        "ucretsiz": true,
+        "kapasite": 1000,
+        "kayitli": 0
+    }
+]

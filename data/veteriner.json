@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updatedAt": "2025-09-14T15:07:38.809Z",
+  "pending": [],
+  "approved": [
+    {
+      "id": "bb678280-99ce-43dc-9df2-ecf0868a1463",
+      "durum": "kayıp",
+      "tur": "köpek",
+      "isim": "rsafs",
+      "cins": "asafsa",
+      "yas": "3",
+      "cinsiyet": "bilinmiyor",
+      "renkAyirtici": "asdsa",
+      "microchip": "sd",
+      "sonGorulmeAdres": "asdasd",
+      "sonGorulmeZaman": "2025-09-04T20:09",
+      "coords": {
+        "lat": 41.009152,
+        "lng": 28.7899648
+      },
+      "iletisim": "23432432432432",
+      "durumOnay": "approved"
+    }
+  ],
+  "ihbarlar": []
+}

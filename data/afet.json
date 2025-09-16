@@ -1,0 +1,81 @@
+{
+    "toplanmaAlanlari": [
+        {
+            "id": 1,
+            "isim": "Merkez Park Toplanma Alanı",
+            "adres": "Merkez Mahallesi, Park Caddesi",
+            "kapasite": 5000,
+            "enlem": 39.9334,
+            "boylam": 32.8597,
+            "ozellikler": [
+                "Su",
+                "Tuvalet",
+                "İlk Yardım",
+                "Güvenlik"
+            ]
+        },
+        {
+            "id": 2,
+            "isim": "Şehir Stadyumu",
+            "adres": "Güney Mahallesi, Spor Caddesi",
+            "kapasite": 10000,
+            "enlem": 39.9344,
+            "boylam": 32.8607,
+            "ozellikler": [
+                "Su",
+                "Tuvalet",
+                "İlk Yardım",
+                "Güvenlik",
+                "Açık Alan"
+            ]
+        },
+        {
+            "id": 3,
+            "isim": "Kültür Merkezi",
+            "adres": "Doğu Mahallesi, Kültür Sokak",
+            "kapasite": 2000,
+            "enlem": 39.9324,
+            "boylam": 32.8587,
+            "ozellikler": [
+                "Su",
+                "Tuvalet",
+                "İlk Yardım",
+                "Kapalı Alan"
+            ]
+        }
+    ],
+    "bilgilendirmeAbonelikleri": [
+        {
+            "id": 1,
+            "telefon": "0532 123 45 67",
+            "email": "ahmet@email.com",
+            "tip": "SMS",
+            "kayitTarihi": "10.12.2024",
+            "aktif": true
+        },
+        {
+            "id": 2,
+            "telefon": "0533 987 65 43",
+            "email": "fatma@email.com",
+            "tip": "WhatsApp",
+            "kayitTarihi": "08.12.2024",
+            "aktif": true
+        }
+    ],
+    "afetBilgileri": [
+        {
+            "id": 1,
+            "baslik": "Deprem Hazırlık Rehberi",
+            "icerik": "Deprem öncesi, sırası ve sonrasında yapılması gerekenler hakkında bilgilendirme.",
+            "kategori": "Deprem",
+            "tarih": "01.12.2024"
+        },
+        {
+            "id": 2,
+            "baslik": "Sel Uyarı Sistemi",
+            "icerik": "Sel riski bulunan bölgeler ve uyarı sistemleri hakkında bilgi.",
+            "kategori": "Sel",
+            "tarih": "01.12.2024"
+        }
+    ]
+}

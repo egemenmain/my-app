@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "baslik": "Çevre Mühendisi",
+        "aciklama": "Belediyemiz çevre koruma biriminde görev alacak çevre mühendisi aranmaktadır.",
+        "pozisyon": "Çevre Mühendisi",
+        "seviye": "Uzman",
+        "maas": "15000-18000 TL",
+        "calismaSekli": "Tam Zamanlı",
+        "sonBasvuruTarihi": "31.12.2024",
+        "durum": "Açık",
+        "gereksinimler": [
+            "Çevre Mühendisliği lisans mezunu",
+            "En az 3 yıl deneyim",
+            "Çevre mevzuatı bilgisi",
+            "Bilgisayar kullanım becerisi"
+        ],
+        "sorumluluklar": [
+            "Çevre koruma projelerinin yürütülmesi",
+            "Çevre mevzuatına uygunluk denetimi",
+            "Raporlama ve analiz çalışmaları"
+        ]
+    },
+    {
+        "id": 2,
+        "baslik": "Sosyal Hizmet Uzmanı",
+        "aciklama": "Sosyal yardım ve destek hizmetlerinde görev alacak uzman aranmaktadır.",
+        "pozisyon": "Sosyal Hizmet Uzmanı",
+        "seviye": "Uzman",
+        "maas": "12000-15000 TL",
+        "calismaSekli": "Tam Zamanlı",
+        "sonBasvuruTarihi": "25.12.2024",
+        "durum": "Açık",
+        "gereksinimler": [
+            "Sosyal Hizmetler lisans mezunu",
+            "En az 2 yıl deneyim",
+            "İletişim becerileri",
+            "Sosyal yardım mevzuatı bilgisi"
+        ],
+        "sorumluluklar": [
+            "Sosyal yardım başvurularının değerlendirilmesi",
+            "Vatandaş danışmanlık hizmetleri",
+            "Sosyal projelerin yürütülmesi"
+        ]
+    },
+    {
+        "id": 3,
+        "baslik": "Bilgi İşlem Teknisyeni",
+        "aciklama": "Belediye bilgi işlem biriminde görev alacak teknisyen aranmaktadır.",
+        "pozisyon": "Bilgi İşlem Teknisyeni",
+        "seviye": "Teknisyen",
+        "maas": "10000-13000 TL",
+        "calismaSekli": "Tam Zamanlı",
+        "sonBasvuruTarihi": "20.12.2024",
+        "durum": "Kapalı",
+        "gereksinimler": [
+            "Bilgisayar Programcılığı ön lisans mezunu",
+            "En az 1 yıl deneyim",
+            "Ağ yönetimi bilgisi",
+            "Yazılım geliştirme becerisi"
+        ],
+        "sorumluluklar": [
+            "Bilgisayar sistemlerinin bakımı",
+            "Ağ altyapısının yönetimi",
+            "Yazılım geliştirme çalışmaları"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "baslik": "Yeni Çevre Temizlik Hizmetleri Başlıyor",
+        "ozet": "Belediyemiz çevre temizlik hizmetlerini genişletiyor. Yeni araçlar ve personel ile daha etkili hizmet sunacağız.",
+        "icerik": "Belediyemiz, vatandaşlarımıza daha kaliteli hizmet sunmak amacıyla çevre temizlik hizmetlerini genişletiyor. Yeni temizlik araçları ve ek personel ile şehrimizin temizliği için daha etkili çalışmalar yürüteceğiz. Bu kapsamda mahallelerde haftalık temizlik programları güncellenmiş ve yeni rotalar belirlenmiştir.",
+        "tarih": "15.12.2024",
+        "kategori": "Hizmet",
+        "onemli": true
+    },
+    {
+        "id": 2,
+        "baslik": "Kış Aylarında Yol Bakım Çalışmaları",
+        "ozet": "Kış aylarında güvenli ulaşım için yol bakım çalışmaları başlatıldı.",
+        "icerik": "Kış aylarında vatandaşlarımızın güvenli ulaşımını sağlamak amacıyla yol bakım çalışmaları başlatılmıştır. Ana arterlerde tuzlama ve kar temizleme işlemleri düzenli olarak yapılacaktır.",
+        "tarih": "10.12.2024",
+        "kategori": "Ulaşım",
+        "onemli": false
+    },
+    {
+        "id": 3,
+        "baslik": "Yeni Park Alanı Açılışı",
+        "ozet": "Merkez Mahallesi'nde yeni park alanı vatandaşların hizmetine açıldı.",
+        "icerik": "Merkez Mahallesi'nde 5000 m² alan üzerine kurulan yeni park alanı, çocuk oyun grupları, spor aletleri ve yeşil alanları ile vatandaşlarımızın hizmetine açılmıştır.",
+        "tarih": "08.12.2024",
+        "kategori": "Park",
+        "onemli": false
+    },
+    {
+        "id": 4,
+        "baslik": "E-Belediye Sistemi Güncellemesi",
+        "ozet": "E-belediye sistemimiz yeni özelliklerle güncellendi.",
+        "icerik": "Vatandaşlarımızın daha kolay işlem yapabilmesi için e-belediye sistemimiz güncellenmiştir. Yeni özellikler arasında mobil uygulama entegrasyonu ve gelişmiş ödeme seçenekleri bulunmaktadır.",
+        "tarih": "05.12.2024",
+        "kategori": "Teknoloji",
+        "onemli": true
+    },
+    {
+        "id": 5,
+        "baslik": "Kültür Merkezi Etkinlik Programı",
+        "ozet": "Aralık ayı kültür merkezi etkinlik programı yayınlandı.",
+        "icerik": "Belediyemiz kültür merkezinde aralık ayı boyunca konserler, sergiler ve tiyatro oyunları düzenlenecektir. Program detayları belediye web sitesinde yayınlanmıştır.",
+        "tarih": "01.12.2024",
+        "kategori": "Kültür",
+        "onemli": false
+    }
+]

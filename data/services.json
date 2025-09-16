@@ -1,0 +1,391 @@
+[
+    {
+        "id": "altyapi-yol-bakim-onarim",
+        "baslik": "Altyapı, Yol Bakım Onarım Hizmetleri",
+        "kategori": "Altyapı & Fen İşleri",
+        "ozet": "Yol, asfalt, kaldırım ve altyapı bakım-onarım işleri.",
+        "icerikHtml": "<p>Belediyemiz sınırları içerisindeki tüm yolların bakım, onarım ve yenileme işlemleri yapılmaktadır. Asfalt kaplama, kaldırım düzenleme, drenaj sistemleri ve altyapı çalışmaları kapsamında hizmet verilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Adres belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "yol",
+            "asfalt",
+            "kaldırım",
+            "altyapı",
+            "bakım",
+            "onarım"
+        ]
+    },
+    {
+        "id": "arac-talepleri",
+        "baslik": "Araç Talepleri",
+        "kategori": "Destek Hizmetleri",
+        "ozet": "Belediye araçlarından yararlanma talepleri ve rezervasyon işlemleri.",
+        "icerikHtml": "<p>Belediye araçlarından yararlanmak isteyen vatandaşlarımız için rezervasyon ve tahsis işlemleri yapılmaktadır. Etkinlik, tören ve özel günler için araç talepleri değerlendirilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li><li>Etkinlik belgesi (varsa)</li></ul><h3>Ücret Tarifesi</h3><p>Hizmet türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "araç",
+            "rezervasyon",
+            "tahsis",
+            "etkinlik",
+            "tören"
+        ]
+    },
+    {
+        "id": "bilgi-evi-hizmetleri",
+        "baslik": "Bilgi Evi Hizmetlerimiz",
+        "kategori": "Eğitim & Kültür",
+        "ozet": "Bilgi evlerinde eğitim, kurs ve sosyal aktivite hizmetleri.",
+        "icerikHtml": "<p>Bilgi evlerimizde çocuklar ve gençler için eğitim programları, kurslar ve sosyal aktiviteler düzenlenmektedir. Bilgisayar kursları, dil eğitimleri ve sanat atölyeleri bulunmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Kayıt formu</li><li>Sağlık raporu (gerekirse)</li></ul><h3>Ücret Tarifesi</h3><p>Kurs türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "bilgi evi",
+            "eğitim",
+            "kurs",
+            "sosyal aktivite",
+            "çocuk",
+            "genç"
+        ]
+    },
+    {
+        "id": "cevre-koruma-geri-donusum",
+        "baslik": "Çevre Koruma ve Geri Dönüşüm",
+        "kategori": "Çevre Yönetimi",
+        "ozet": "Çevre koruma projeleri, geri dönüşüm kampanyaları ve çevre bilinçlendirme çalışmaları.",
+        "icerikHtml": "<p>Çevre koruma ve sürdürülebilir yaşam için geri dönüşüm projeleri, çevre bilinçlendirme kampanyaları ve eğitim programları düzenlenmektedir. Atık yönetimi ve çevre denetimleri yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "çevre",
+            "koruma",
+            "geri dönüşüm",
+            "atık",
+            "sürdürülebilir",
+            "bilinçlendirme"
+        ]
+    },
+    {
+        "id": "cevre-temizlik-geri-donusum",
+        "baslik": "Çevre Temizlik – Geri Dönüşüm",
+        "kategori": "Temizlik İşleri",
+        "ozet": "Şehir temizliği, çöp toplama ve geri dönüşüm hizmetleri.",
+        "icerikHtml": "<p>Şehir genelinde temizlik hizmetleri, çöp toplama ve geri dönüşüm işlemleri yapılmaktadır. Temizlik araçları ve personel ile düzenli temizlik çalışmaları yürütülmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Adres belgesi</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "temizlik",
+            "çöp",
+            "geri dönüşüm",
+            "şehir",
+            "araç",
+            "personel"
+        ]
+    },
+    {
+        "id": "dilekce-genel-muracaat",
+        "baslik": "Dilekçe – Genel Müracaat",
+        "kategori": "Çözüm Merkezi",
+        "ozet": "Genel dilekçe ve müracaat işlemleri, şikayet ve talep değerlendirmeleri.",
+        "icerikHtml": "<p>Vatandaşlarımızın dilekçe ve müracaatları değerlendirilmekte, şikayet ve talepleri incelenmektedir. Online ve yüz yüze başvuru imkanları sunulmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Dilekçe</li><li>İlgili belgeler (varsa)</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "dilekçe",
+            "müracaat",
+            "şikayet",
+            "talep",
+            "başvuru",
+            "değerlendirme"
+        ]
+    },
+    {
+        "id": "diyetisyenlik-psikolojik-danismanlik",
+        "baslik": "Diyetisyenlik ve Psikolojik Danışmanlık",
+        "kategori": "Sosyal Hizmetler",
+        "ozet": "Beslenme danışmanlığı ve psikolojik destek hizmetleri.",
+        "icerikHtml": "<p>Uzman diyetisyen ve psikologlarımız tarafından beslenme danışmanlığı ve psikolojik destek hizmetleri verilmektedir. Bireysel ve grup terapileri düzenlenmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Sağlık raporu</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Hizmet türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "diyetisyen",
+            "psikolog",
+            "beslenme",
+            "danışmanlık",
+            "terapi",
+            "sağlık"
+        ]
+    },
+    {
+        "id": "engelli-hizmetleri",
+        "baslik": "Engelli Hizmetleri",
+        "kategori": "Sosyal Hizmetler",
+        "ozet": "Engelli vatandaşlarımız için özel hizmetler ve destek programları.",
+        "icerikHtml": "<p>Engelli vatandaşlarımız için özel hizmetler, destek programları ve sosyal yardımlar sağlanmaktadır. Erişilebilirlik çalışmaları ve özel eğitim programları düzenlenmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Engelli raporu</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "engelli",
+            "destek",
+            "sosyal yardım",
+            "erişilebilirlik",
+            "özel eğitim",
+            "program"
+        ]
+    },
+    {
+        "id": "evlendirme-nikah-islemleri",
+        "baslik": "Evlendirme ve Nikah İşlemleri",
+        "kategori": "Evlendirme",
+        "ozet": "Nikah işlemleri, evlendirme belgeleri ve nikah salonu rezervasyonları.",
+        "icerikHtml": "<p>Nikah işlemleri, evlendirme belgelerinin hazırlanması ve nikah salonu rezervasyonları yapılmaktadır. Nikah törenleri ve gerekli belgelerin temin edilmesi konusunda destek sağlanmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Nüfus cüzdanı</li><li>Sağlık raporu</li><li>İkamet belgesi</li></ul><h3>Ücret Tarifesi</h3><p>Nikah işlemleri ücretsizdir. Salon kiralama ücreti ayrıca belirlenir.</p>",
+        "etiketler": [
+            "nikah",
+            "evlendirme",
+            "tören",
+            "salon",
+            "rezervasyon",
+            "belge"
+        ]
+    },
+    {
+        "id": "hasta-yasli-hizmetleri",
+        "baslik": "Hasta ve Yaşlı Hizmetleri",
+        "kategori": "Sosyal Hizmetler",
+        "ozet": "Hasta ve yaşlı vatandaşlarımız için özel bakım ve destek hizmetleri.",
+        "icerikHtml": "<p>Hasta ve yaşlı vatandaşlarımız için evde bakım hizmetleri, sağlık takibi ve sosyal destek programları sağlanmaktadır. Mobil sağlık hizmetleri ve özel bakım programları düzenlenmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Sağlık raporu</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Hizmet türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "hasta",
+            "yaşlı",
+            "bakım",
+            "sağlık",
+            "mobil",
+            "destek"
+        ]
+    },
+    {
+        "id": "imar-sehircilik-hizmetleri",
+        "baslik": "İmar ve Şehircilik Hizmetleri",
+        "kategori": "İmar & Yapı",
+        "ozet": "İmar planları, şehircilik projeleri ve kentsel dönüşüm çalışmaları.",
+        "icerikHtml": "<p>İmar planları, şehircilik projeleri ve kentsel dönüşüm çalışmaları yürütülmektedir. Yapı ruhsatları, imar durumu belgeleri ve şehir planlama hizmetleri verilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Tapu belgesi</li><li>İmar durumu belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Belge türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "imar",
+            "şehircilik",
+            "plan",
+            "kentsel dönüşüm",
+            "ruhsat",
+            "yapı"
+        ]
+    },
+    {
+        "id": "is-muracaatlari-istihdam",
+        "baslik": "İş Müracaatları (İstihdam Merkezi)",
+        "kategori": "İstihdam & Kariyer",
+        "ozet": "İş arama, işe yerleştirme ve mesleki eğitim hizmetleri.",
+        "icerikHtml": "<p>İş arayan vatandaşlarımız için işe yerleştirme hizmetleri, mesleki eğitim programları ve kariyer danışmanlığı sağlanmaktadır. İş ilanları ve başvuru süreçleri takip edilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>CV</li><li>Diploma</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "iş",
+            "istihdam",
+            "kariyer",
+            "eğitim",
+            "yerleştirme",
+            "danışmanlık"
+        ]
+    },
+    {
+        "id": "isyeri-ruhsatlari",
+        "baslik": "İşyeri Ruhsatları",
+        "kategori": "Ruhsat & Denetim",
+        "ozet": "İşyeri açma ruhsatları, işletme belgeleri ve denetim işlemleri.",
+        "icerikHtml": "<p>İşyeri açma ruhsatları, işletme belgeleri ve denetim işlemleri yapılmaktadır. İşyeri açma başvuruları değerlendirilmekte ve gerekli denetimler yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>İşyeri sözleşmesi</li><li>Vergi levhası</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Ruhsat türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "işyeri",
+            "ruhsat",
+            "işletme",
+            "denetim",
+            "başvuru",
+            "belge"
+        ]
+    },
+    {
+        "id": "kentsel-donusum-hizmetleri",
+        "baslik": "Kentsel Dönüşüm Hizmetleri",
+        "kategori": "İmar & Yapı",
+        "ozet": "Kentsel dönüşüm projeleri, yenileme çalışmaları ve konut hizmetleri.",
+        "icerikHtml": "<p>Kentsel dönüşüm projeleri, yenileme çalışmaları ve konut hizmetleri yürütülmektedir. Riskli yapıların tespiti, yenileme projeleri ve konut tahsisi işlemleri yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Tapu belgesi</li><li>Yapı ruhsatı</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Proje türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "kentsel dönüşüm",
+            "yenileme",
+            "konut",
+            "riskli yapı",
+            "proje",
+            "tahsis"
+        ]
+    },
+    {
+        "id": "kiralama-ecrimisil-kamulastirma",
+        "baslik": "Kiralama / Ecrimisil / Kamulaştırma",
+        "kategori": "Mali & Emlak",
+        "ozet": "Belediye taşınmazlarının kiralanması, ecrimisil hesaplamaları ve kamulaştırma işlemleri.",
+        "icerikHtml": "<p>Belediye taşınmazlarının kiralanması, ecrimisil hesaplamaları ve kamulaştırma işlemleri yapılmaktadır. Taşınmaz yönetimi ve mali işlemler konusunda hizmet verilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Tapu belgesi</li><li>Başvuru formu</li><li>Mali belgeler</li></ul><h3>Ücret Tarifesi</h3><p>İşlem türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "kiralama",
+            "ecrimisil",
+            "kamulaştırma",
+            "taşınmaz",
+            "mali",
+            "emlak"
+        ]
+    },
+    {
+        "id": "kultur-sanat-hizmetleri",
+        "baslik": "Kültür Sanat Hizmetleri",
+        "kategori": "Eğitim & Kültür",
+        "ozet": "Kültürel etkinlikler, sanat programları ve kültür merkezi hizmetleri.",
+        "icerikHtml": "<p>Kültürel etkinlikler, sanat programları ve kültür merkezi hizmetleri düzenlenmektedir. Konserler, sergiler, tiyatro oyunları ve sanat atölyeleri organize edilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Etkinlik türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "kültür",
+            "sanat",
+            "etkinlik",
+            "konser",
+            "sergi",
+            "tiyatro"
+        ]
+    },
+    {
+        "id": "mali-hizmetler",
+        "baslik": "Mali Hizmetler",
+        "kategori": "Mali İşler",
+        "ozet": "Belediye mali işlemleri, bütçe yönetimi ve muhasebe hizmetleri.",
+        "icerikHtml": "<p>Belediye mali işlemleri, bütçe yönetimi ve muhasebe hizmetleri yürütülmektedir. Mali raporlama, bütçe planlaması ve mali denetim işlemleri yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Mali belgeler</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>İşlem türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "mali",
+            "bütçe",
+            "muhasebe",
+            "raporlama",
+            "planlama",
+            "denetim"
+        ]
+    },
+    {
+        "id": "meslek-sanat-egitimleri",
+        "baslik": "Meslek ve Sanat Eğitimleri",
+        "kategori": "Eğitim & Kültür",
+        "ozet": "Mesleki eğitim kursları, sanat atölyeleri ve beceri geliştirme programları.",
+        "icerikHtml": "<p>Mesleki eğitim kursları, sanat atölyeleri ve beceri geliştirme programları düzenlenmektedir. Sertifikalı eğitimler ve pratik atölye çalışmaları yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Kayıt formu</li><li>Eğitim belgesi (varsa)</li></ul><h3>Ücret Tarifesi</h3><p>Kurs türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "meslek",
+            "sanat",
+            "eğitim",
+            "kurs",
+            "atölye",
+            "sertifika"
+        ]
+    },
+    {
+        "id": "park-yesil-alan-hizmetleri",
+        "baslik": "Park ve Yeşil Alan Hizmetleri",
+        "kategori": "Park & Yeşil Alanlar",
+        "ozet": "Park bakımı, yeşil alan düzenleme ve peyzaj hizmetleri.",
+        "icerikHtml": "<p>Park bakımı, yeşil alan düzenleme ve peyzaj hizmetleri yürütülmektedir. Çiçek dikimi, ağaç bakımı ve park düzenleme çalışmaları yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "park",
+            "yeşil alan",
+            "peyzaj",
+            "çiçek",
+            "ağaç",
+            "bakım"
+        ]
+    },
+    {
+        "id": "sosyal-yardim-hizmetleri",
+        "baslik": "Sosyal Yardım Hizmetleri",
+        "kategori": "Sosyal Hizmetler",
+        "ozet": "Sosyal yardım programları, maddi destek ve sosyal hizmetler.",
+        "icerikHtml": "<p>Sosyal yardım programları, maddi destek ve sosyal hizmetler sağlanmaktadır. İhtiyaç sahibi vatandaşlarımıza yardım ve destek programları uygulanmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Gelir belgesi</li><li>Başvuru formu</li><li>İhtiyaç belgesi</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "sosyal yardım",
+            "maddi destek",
+            "sosyal hizmet",
+            "ihtiyaç",
+            "yardım",
+            "program"
+        ]
+    },
+    {
+        "id": "spor-hizmetleri",
+        "baslik": "Spor Hizmetleri",
+        "kategori": "Spor",
+        "ozet": "Spor tesisleri, spor programları ve fitness hizmetleri.",
+        "icerikHtml": "<p>Spor tesisleri, spor programları ve fitness hizmetleri sunulmaktadır. Spor kursları, turnuvalar ve fitness programları düzenlenmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Sağlık raporu</li><li>Kayıt formu</li></ul><h3>Ücret Tarifesi</h3><p>Program türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "spor",
+            "tesis",
+            "fitness",
+            "kurs",
+            "turnuva",
+            "program"
+        ]
+    },
+    {
+        "id": "tebrik-ziyaretleri",
+        "baslik": "Tebrik Ziyaretleri",
+        "kategori": "Protokol & Halkla İlişkiler",
+        "ozet": "Özel günlerde tebrik ziyaretleri ve protokol hizmetleri.",
+        "icerikHtml": "<p>Özel günlerde tebrik ziyaretleri ve protokol hizmetleri düzenlenmektedir. Düğün, nişan, doğum gibi özel günlerde belediye başkanı ve protokol heyeti ziyaretleri yapılmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li><li>Etkinlik belgesi</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "tebrik",
+            "ziyaret",
+            "protokol",
+            "düğün",
+            "nişan",
+            "doğum"
+        ]
+    },
+    {
+        "id": "ucretler-tarifeler",
+        "baslik": "Ücretler ve Tarifeler",
+        "kategori": "Mali İşler",
+        "ozet": "Belediye hizmet ücretleri, tarife listesi ve ödeme bilgileri.",
+        "icerikHtml": "<p>Belediye hizmet ücretleri, tarife listesi ve ödeme bilgileri sunulmaktadır. Tüm hizmetlerin güncel ücret listesi ve ödeme koşulları belirtilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Hizmet belgesi</li></ul><h3>Ücret Tarifesi</h3><p>Detaylı tarife listesi için <a href='/ucretler-ve-tarifeler'>Ücretler ve Tarifeler</a> sayfasını ziyaret ediniz.</p>",
+        "etiketler": [
+            "ücret",
+            "tarife",
+            "ödeme",
+            "hizmet",
+            "liste",
+            "koşul"
+        ]
+    },
+    {
+        "id": "veteriner-hizmetleri",
+        "baslik": "Veteriner Hizmetleri",
+        "kategori": "Veteriner İşleri",
+        "ozet": "Hayvan sağlığı, aşılama ve veteriner hizmetleri.",
+        "icerikHtml": "<p>Hayvan sağlığı, aşılama ve veteriner hizmetleri verilmektedir. Sahipsiz hayvan bakımı, aşılama programları ve hayvan barınağı hizmetleri sunulmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Hayvan belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>Hizmet türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "veteriner",
+            "hayvan",
+            "sağlık",
+            "aşılama",
+            "barınak",
+            "bakım"
+        ]
+    },
+    {
+        "id": "yapi-kontrol-asansor-tescil",
+        "baslik": "Yapı Kontrol ve Asansör Tescil Hizmetleri",
+        "kategori": "İmar & Yapı",
+        "ozet": "Yapı kontrolü, asansör tescil işlemleri ve güvenlik denetimleri.",
+        "icerikHtml": "<p>Yapı kontrolü, asansör tescil işlemleri ve güvenlik denetimleri yapılmaktadır. Yapı güvenliği, asansör bakımı ve güvenlik sertifikaları konusunda hizmet verilmektedir.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Yapı ruhsatı</li><li>Asansör belgesi</li><li>Başvuru formu</li></ul><h3>Ücret Tarifesi</h3><p>İşlem türüne göre değişken ücretlendirme uygulanmaktadır.</p>",
+        "etiketler": [
+            "yapı",
+            "kontrol",
+            "asansör",
+            "tescil",
+            "güvenlik",
+            "denetim"
+        ]
+    },
+    {
+        "id": "zabita-hizmetleri",
+        "baslik": "Zabıta Hizmetleri",
+        "kategori": "Zabıta & Denetim",
+        "ozet": "Belediye zabıta hizmetleri, denetim işlemleri ve güvenlik hizmetleri.",
+        "icerikHtml": "<p>Belediye zabıta hizmetleri, denetim işlemleri ve güvenlik hizmetleri yürütülmektedir. İhlal takibi, denetim raporları ve güvenlik önlemleri alınmaktadır.</p><h3>Gerekli Belgeler</h3><ul><li>Kimlik belgesi</li><li>Başvuru formu</li><li>İhlal belgesi (varsa)</li></ul><h3>Ücret Tarifesi</h3><p>Bu hizmet ücretsizdir.</p>",
+        "etiketler": [
+            "zabıta",
+            "denetim",
+            "güvenlik",
+            "ihlal",
+            "takip",
+            "rapor"
+        ]
+    }
+]

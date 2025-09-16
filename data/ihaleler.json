@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "ihaleNo": "İH-2024-001",
+        "baslik": "Temizlik Hizmetleri İhalesi",
+        "aciklama": "Belediye sınırları içerisinde temizlik hizmetlerinin yürütülmesi için ihale açılmıştır.",
+        "kategori": "Hizmet",
+        "tutar": 2500000.00,
+        "baslangicTarihi": "01.01.2025",
+        "bitisTarihi": "31.12.2025",
+        "sonBasvuruTarihi": "15.01.2025",
+        "durum": "Açık",
+        "sartname": "İhale şartnamesi belediye web sitesinde yayınlanmıştır.",
+        "iletisim": "İhale Müdürlüğü - 0312 123 45 67"
+    },
+    {
+        "id": 2,
+        "ihaleNo": "İH-2024-002",
+        "baslik": "Park Düzenleme İşi",
+        "aciklama": "Merkez Park'ın yeniden düzenlenmesi ve peyzaj çalışmaları.",
+        "kategori": "İnşaat",
+        "tutar": 850000.00,
+        "baslangicTarihi": "15.02.2025",
+        "bitisTarihi": "15.08.2025",
+        "sonBasvuruTarihi": "30.01.2025",
+        "durum": "Açık",
+        "sartname": "İhale şartnamesi belediye web sitesinde yayınlanmıştır.",
+        "iletisim": "İhale Müdürlüğü - 0312 123 45 67"
+    },
+    {
+        "id": 3,
+        "ihaleNo": "İH-2024-003",
+        "baslik": "Bilgisayar Donanım Alımı",
+        "aciklama": "Belediye bilgi işlem birimi için bilgisayar donanım alımı.",
+        "kategori": "Malzeme",
+        "tutar": 150000.00,
+        "baslangicTarihi": "01.03.2025",
+        "bitisTarihi": "31.03.2025",
+        "sonBasvuruTarihi": "15.02.2025",
+        "durum": "Sonuçlandı",
+        "sartname": "İhale sonuçlandırılmıştır.",
+        "iletisim": "İhale Müdürlüğü - 0312 123 45 67"
+    }
+]

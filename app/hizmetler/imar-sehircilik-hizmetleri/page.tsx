@@ -517,11 +517,11 @@ export default function PageImarSehircilik() {
                                     Sorgula
                                 </button>
                                 {res && (
-                                    <ExportMenu 
-                    data={{ query: q} 
-                    filename="e-imar-sonuc.json"
-                    resourceId="imar_sehircilik_hizmetleri"
-                  />
+                                                                        <ExportMenu 
+                                                                                data={{ query: q }}
+                                                                                filename="e-imar-sonuc.json"
+                                                                                resourceId="imar_sehircilik_hizmetleri"
+                                                                        />
                                 )}
                             </div>
                         </form>

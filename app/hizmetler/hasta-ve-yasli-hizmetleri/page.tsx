@@ -418,11 +418,11 @@ export default function HastaYasliHizmetleriPage() {
 
                                 <div className="mt-3 flex flex-wrap gap-2">
                                     <button className="rounded-lg bg-emerald-600 px-4 py-2 text-white hover:opacity-95" type="submit">Başvuruyu Gönder</button>
-                                    <ExportMenu 
-                    data={{ triage} 
-                    filename="hasta-yasli-basvuru-taslak.json"
-                    resourceId="hasta_ve_yasli_hizmetleri"
-                  />
+                                                                        <ExportMenu 
+                                                                                data={{ triage }}
+                                                                                filename="hasta-yasli-basvuru-taslak.json"
+                                                                                resourceId="hasta_ve_yasli_hizmetleri"
+                                                                        />
                                 </div>
 
                                 <Callout title="Nasıl çalışır? – Başvuru" tone="info">

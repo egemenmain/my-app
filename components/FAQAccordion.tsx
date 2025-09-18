@@ -27,3 +27,5 @@ export default function FAQAccordion({ items }: { items: FAQ[] }) {
 
 
 
+
+
